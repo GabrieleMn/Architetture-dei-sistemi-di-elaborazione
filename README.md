@@ -1,2 +1,3 @@
 # Architetture-dei-sistemi-di-elaborazione
-ARM assembly
+
+This repository contains the material of the course "Architetture dei sitemi di elaborazione" at Politecnico di Torino.
